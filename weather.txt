@@ -1,0 +1,18 @@
+Current temperature in Los Angeles, California, United States is 55.33F.
+Conditions are currently: Mist.
+What you should expect: Mist throughout the day.
+Current temperature in San Francisco Saloon, 11501 W Pico Blvd, Los Angeles, California 90064, United States is 55.31F.
+Conditions are currently: Mist.
+What you should expect: Mist throughout the day.
+Current temperature in San Francisco Saloon, 11501 W Pico Blvd, Los Angeles, California 90064, United States is 57.61F.
+Conditions are currently: Clouds.
+What you should expect: Overcast clouds throughout the day.
+Current temperature in San Francisco Saloon, 11501 W Pico Blvd, Los Angeles, California 90064, United States is 14.23C.
+Conditions are currently: Clouds.
+What you should expect: Overcast clouds throughout the day.
+Current temperature in Tokyo Prefecture, Japan is 5.03C.
+	Conditions are currently: Clear.
+	What you should expect: Clear sky throughout the day.
+Current temperature in Tokyo Prefecture, Japan is 5.03C.
+Conditions are currently: Clear.
+What you should expect: Clear sky throughout the day.
